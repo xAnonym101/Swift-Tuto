@@ -13,7 +13,7 @@ struct FeatureCard: View {
 
 
     var body: some View {
-        landmark.featureImage?
+        landmark.featuredImage?
             .resizable()
     }
 }
