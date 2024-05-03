@@ -10,8 +10,8 @@ import SwiftUI
 
 struct FeatureCard: View {
     var landmark: Landmark
-
-
+    
+    
     var body: some View {
         landmark.featureImage?
             .resizable()
