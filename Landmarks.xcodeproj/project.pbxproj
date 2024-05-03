@@ -423,6 +423,7 @@
 		3F40D22F2BD0D8C200F0572E /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				3F40D2302BD0D8C200F0572E /* LandmarksApp.swift */,
 				3FE0FE922BE47F04007E9780 /* Preview Content */,
 				3F6147B52BD2209E00D65463 /* Badges */,
 				3F40D2642BD0EF0A00F0572E /* View */,
@@ -558,7 +559,6 @@
 		3FE0FE922BE47F04007E9780 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				3F40D2302BD0D8C200F0572E /* LandmarksApp.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
