@@ -10,8 +10,8 @@ import SwiftUI
 
 struct HikeBadge: View {
     var name: String
-
-
+    
+    
     var body: some View {
         VStack(alignment: .center) {
             Badge()
